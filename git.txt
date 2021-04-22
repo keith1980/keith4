@@ -1,0 +1,19 @@
+git --version (comando para comprobar la version de git que instalamos)
+cd Desktop ( udicarnos en el escritorio)
+cd nombre de la crapeta  (udicranos dentro de la carpeta)
+git init (condertir en un repositotio)
+git status ( ver el setado de la carpeta "rojo")
+git add . (prepara los archivos para sudirlos)
+git status ( ver el estado de la carpeta  "verde")
+-------- configuracion---------------------
+git config --global user.email "diana98dafne16@gmail.com" (ligra con el correo)
+git config --global user.name "nombre"
+--------------------------------------------
+
+git commit -m "texto" (listra los arcchivos)
+git estatus (ver estado de la crapeta)
+git remote add origin https://github.com/Santillan2014/fin.git (liga de git de tu repisitorio)
+
+ 
+
+
